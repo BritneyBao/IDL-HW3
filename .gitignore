@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+expts/
+wandb/
+results.csv
+config.yaml
+*.pth
+.ipynb_checkpoints/
+submission/
+HW3P2_final_submission.zip
